@@ -1,4 +1,4 @@
-# Hello there 👋
+# Hello there 👋🙂
 - 🛠️ I’m interested in developing programming skills
 - ⌨️ Plan to learn to develop on React.js or Vue.js
 - ❤️‍🔥 I’m currently working in ligaa.agency
