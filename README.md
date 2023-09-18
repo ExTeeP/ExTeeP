@@ -1,6 +1,6 @@
 # Hello there 👋🙂
 - 🛠️ I’m interested in developing programming skills
-- ⌨️ Plan to learn to develop on React.js or Vue.js
+- ⌨️ Learn to develop on React
 - ❤️‍🔥 I’m currently working in ligaa.agency
 
 
